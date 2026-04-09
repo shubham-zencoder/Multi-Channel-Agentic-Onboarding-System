@@ -1,0 +1,11 @@
+lead_id,name,phone,email,city,vehicle_type,vehicle_count,aadhaar_status,bank_status,rc_status,app_installed,preferred_channel,remarks
+L001,Aarav Sharma,9876543210,aarav@email.com,Mumbai,truck,2,verified,pending,missing,yes,whatsapp,Urgent
+L002,Ishani Gupta,9123456789,ishani@email.com,Delhi,mini,1,pending,verified,verified,no,email,Needs app help
+L003,Rahul Verma,9988776655,rahul@email.com,Bangalore,truck,5,verified,verified,verified,yes,whatsapp,High priority
+L004,Sanya Malhotra,8877665544,sanya@email.com,Pune,mini,2,missing,missing,pending,no,email,New lead
+L005,Vikram Singh,7766554433,vikram@email.com,Chennai,truck,10,verified,verified,missing,yes,whatsapp,Fleet owner
+L006,Anjali Nair,6655443322,anjali@email.com,Kochi,mini,1,pending,pending,pending,no,whatsapp,Incomplete
+L007,Rohan Das,5544332211,rohan@email.com,Kolkata,truck,3,verified,missing,verified,yes,email,Fast track
+L008,Priya Ray,4433221100,priya@email.com,Hyderabad,mini,1,missing,verified,missing,no,whatsapp,Follow up
+L009,Amit Patel,3322110099,amit@email.com,Ahmedabad,truck,4,verified,verified,pending,yes,email,Ready soon
+L010,Kiran Rao,2211009988,kiran@email.com,Jaipur,mini,2,pending,verified,verified,no,whatsapp,Check documents

@@ -1,0 +1,5 @@
+1. Call transcript: Customer Rahul Verma (9988776655) called. Confirmed he is a premium supplier with 5 trucks. He said everything is verified and he is ready to onboard. Highly interested.
+
+2. IVR Transcript: Vikram Singh (7766554433) pressed 2 for 'Speak to Agent'. He mentioned his RC status is still pending because he is waiting for the physical copy. Requested a callback tomorrow at 10 AM.
+
+3. Call transcript: Lead Kiran Rao called to report that her Aadhaar status is now verified. She asked for help with the app installation as she is facing a login error. Priority: Medium.
